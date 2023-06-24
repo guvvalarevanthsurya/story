@@ -1,2 +1,6 @@
 hello my name is revanth alien.
 
+<<<<<<< HEAD
+=======
+i am revanth.
+>>>>>>> revanth
